@@ -1,0 +1,36 @@
+const help1 = (prefix) => {
+
+	return `
+┣━━━━°❀ ❬ *CRIAR* ❭ ❀°━━━━┓
+┃
+┣⊱❥ *thunder*
+┣⊱❥ *tahta*
+┣⊱❥ *glitch <texto | texto>*
+┣⊱❥ *phlogo <texto | texto>*
+┣⊱❥ *wolflogo <texto | texto>*
+┣⊱❥ *wolflogo2 <texto | texto>*
+┣⊱❥ *quotemaker <tx | wtrmk | tema>*
+┣⊱❥ *galaxtext*
+┣⊱❥ *textdark*
+┣⊱❥ *textblue*
+┣⊱❥ *lovemake*
+┣⊱❥ *stiltext*
+┣⊱❥ *ninjalogo*
+┣⊱❥ *party*
+┣⊱❥ *rtext*
+┣⊱❥ *water*
+┣⊱❥ *lionlogo <texto | texto>*
+┣⊱❥ *textscreen*
+┣⊱❥ *text3d*
+┣⊱❥ *epep*
+┣⊱❥ *marvelogo <texto | texto>*
+┣⊱❥ *snow <texto | texto>*
+┣⊱❥ *firetext*
+
+════════════════════
+BOT ?
+SUPORTE: wa.me//19842265891*
+MADE IN BRAZIL
+════════════════════`
+}
+exports.help1 = help1
